@@ -2,6 +2,7 @@ import calendar
 import csv
 import datetime
 import re
+import string
 
 from prettytable import PrettyTable
 
@@ -126,7 +127,6 @@ def write_readings_to_html(plan_readings: list[dict[str, str]], csv_file_prefix:
         data = csv_file.readlines()
         column_names = data[0].split(",")
         table = PrettyTable(column_names)
-        table.add_row(column_names)
 
         for i in range(1, len(data)):
             table.add_row(data[i].split(","))
@@ -134,6 +134,44 @@ def write_readings_to_html(plan_readings: list[dict[str, str]], csv_file_prefix:
 
         with open(f"{csv_file_prefix}-{date_range}-table.html", "w", encoding="utf-8") as html_file:
             html_file.writelines(html_string)
+
+        with open("horner-classic-formatted-template.html", "r", encoding="utf-8") as template_file:
+            template_string = template_file.read()
+        text_template = string.Template(template_string)
+
+        # TODO: The code below is hard-coded to work only for a plan lasting from Jan. 1 thru Dec. 31 2023
+        #   Make it work instead in the general case
+
+        heading_and_table1 = f"    <h3>Horner Classic Bible Reading Plan - January 2023 </h3>\n{table[0:31].get_html_string()}"
+        heading_and_table2 = f"    <h3>Horner Classic Bible Reading Plan - February 2023 </h3>\n{table[31:59].get_html_string()}"
+        heading_and_table3 = f"    <h3>Horner Classic Bible Reading Plan - March 2023 </h3>\n{table[59:90].get_html_string()}"
+        heading_and_table4 = f"    <h3>Horner Classic Bible Reading Plan - April 2023 </h3>\n{table[90:120].get_html_string()}"
+        heading_and_table5 = f"    <h3>Horner Classic Bible Reading Plan - May 2023 </h3>\n{table[120:151].get_html_string()}"
+        heading_and_table6 = f"    <h3>Horner Classic Bible Reading Plan - June 2023 </h3>\n{table[151:181].get_html_string()}"
+        heading_and_table7 = f"    <h3>Horner Classic Bible Reading Plan - July 2023 </h3>\n{table[181:212].get_html_string()}"
+        heading_and_table8 = f"    <h3>Horner Classic Bible Reading Plan - August 2023 </h3>\n{table[212:243].get_html_string()}"
+        heading_and_table9 = f"    <h3>Horner Classic Bible Reading Plan - September 2023 </h3>\n{table[243:273].get_html_string()}"
+        heading_and_table10 = f"    <h3>Horner Classic Bible Reading Plan - October 2023 </h3>\n{table[273:304].get_html_string()}"
+        heading_and_table11 = f"    <h3>Horner Classic Bible Reading Plan - November 2023 </h3>\n{table[304:334].get_html_string()}"
+        heading_and_table12 = f"    <h3>Horner Classic Bible Reading Plan - December 2023 </h3>\n{table[334:365].get_html_string()}"
+
+        readings = text_template.substitute(
+            heading_and_table1=heading_and_table1,
+            heading_and_table2=heading_and_table2,
+            heading_and_table3=heading_and_table3,
+            heading_and_table4=heading_and_table4,
+            heading_and_table5=heading_and_table5,
+            heading_and_table6=heading_and_table6,
+            heading_and_table7=heading_and_table7,
+            heading_and_table8=heading_and_table8,
+            heading_and_table9=heading_and_table9,
+            heading_and_table10=heading_and_table10,
+            heading_and_table11=heading_and_table11,
+            heading_and_table12=heading_and_table12,
+        )
+        readings = readings.replace('<table>', '<table role="presentation">')
+        with open("horner-classic-formatted-20230101-20231231.html", "w", encoding="utf-8") as html_file:
+            html_file.writelines(readings)
 
 
 def main():

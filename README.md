@@ -51,8 +51,7 @@ That installs the [PrettyTable](https://pypi.org/project/prettytable/) Python pa
 
 6. Using Python, run the create_plan.py file:
 
-- Currently, that just creates a simple HTML file containing just the HTML code for the table of readings.
-- I manually, split that into separate tables for each of the 12 months, and formatted the tables so they print 1 per page, with every even-numbered row shaded in light gray.
-- I plan to replicate that programatically (in Python) in the future.
+- Currently, part of the code is hard-coded to work only for a plan lasting from Jan. 1 thru Dec. 31 2023.
+- I hope to soon have it instead work in the more general case.
 
 7. Open the PDF file in a Web browser, and print the Web page to a PDF file
