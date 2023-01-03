@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${page_title}</title>
+
+    <style type="text/css">
+        h3 {
+            page-break-before: always;
+            text-align:center;
+        }
+
+        table {
+            width: 100%;
+            table-layout: fixed;
+            border-collapse: collapse;
+            border: 1px solid;
+        }
+
+        /* From: https://stackoverflow.com/questions/27827206/how-to-shade-every-other-table-row-that-spans-across-multiple-rows#27827745 */
+        table tr:nth-child(even) {
+            background-color:lightgray;
+        }
+        
+        table th,
+        table td {
+            vertical-align: top;
+            text-align: left;
+            border: 1px solid;
+        }
+    </style>
+
+</head>
+
+<body>
+${headings_and_tables}
+</body>
+
+</html>
