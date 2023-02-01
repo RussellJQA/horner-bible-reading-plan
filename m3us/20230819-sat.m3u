@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Saturday, 19 August 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 9
+nt\03_luke\03_luke_09.mp3
+#EXTINF:0,Genesis 44
+ot\01_genesis\01_genesis_044.mp3
+#EXTINF:0,Hebrews 10
+nt\19_hebrews\19_hebrews_10.mp3
+#EXTINF:0,1 John 1
+nt\23_1-john\23_1-john_01.mp3
+#EXTINF:0,Ecclesiastes 3
+ot\21_ecclesiastes\21_ecclesiastes_003.mp3
+#EXTINF:0,Psalms 81
+ot\19_psalms\19_psalms_081.mp3
+#EXTINF:0,Proverbs 14
+ot\20_proverbs\20_proverbs_014.mp3
+#EXTINF:0,Nehemiah 5
+ot\16_nehemiah\16_nehemiah_005.mp3
+#EXTINF:0,Haggai 1
+ot\37_haggai\37_haggai_001.mp3
+#EXTINF:0,Acts 7
+nt\05_acts\05_acts_07.mp3

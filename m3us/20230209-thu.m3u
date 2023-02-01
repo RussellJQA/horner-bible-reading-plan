@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Thursday, 9 February 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Mark 12
+nt\02_mark\02_mark_12.mp3
+#EXTINF:0,Genesis 40
+ot\01_genesis\01_genesis_040.mp3
+#EXTINF:0,2 Corinthians 8
+nt\08_2-corinthians\08_2-corinthians_08.mp3
+#EXTINF:0,1 John 5
+nt\23_1-john\23_1-john_05.mp3
+#EXTINF:0,Job 40
+ot\18_job\18_job_040.mp3
+#EXTINF:0,Psalms 40
+ot\19_psalms\19_psalms_040.mp3
+#EXTINF:0,Proverbs 9
+ot\20_proverbs\20_proverbs_009.mp3
+#EXTINF:0,Judges 16
+ot\07_judges\07_judges_016.mp3
+#EXTINF:0,Isaiah 40
+ot\23_isaiah\23_isaiah_040.mp3
+#EXTINF:0,Acts 12
+nt\05_acts\05_acts_12.mp3

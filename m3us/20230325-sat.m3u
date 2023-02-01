@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Saturday, 25 March 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,John 16
+nt\04_john\04_john_16.mp3
+#EXTINF:0,Exodus 34
+ot\02_exodus\02_exodus_034.mp3
+#EXTINF:0,Romans 6
+nt\06_romans\06_romans_06.mp3
+#EXTINF:0,Titus 1
+nt\17_titus\17_titus_01.mp3
+#EXTINF:0,Job 22
+ot\18_job\18_job_022.mp3
+#EXTINF:0,Psalms 84
+ot\19_psalms\19_psalms_084.mp3
+#EXTINF:0,Proverbs 22
+ot\20_proverbs\20_proverbs_022.mp3
+#EXTINF:0,2 Samuel 4
+ot\10_2-samuel\10_2-samuel_004.mp3
+#EXTINF:0,Jeremiah 18
+ot\24_jeremiah\24_jeremiah_018.mp3
+#EXTINF:0,Acts 28
+nt\05_acts\05_acts_28.mp3

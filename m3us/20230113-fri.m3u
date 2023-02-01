@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Friday, 13 January 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 13
+nt\01_matthew\01_matthew_13.mp3
+#EXTINF:0,Genesis 13
+ot\01_genesis\01_genesis_013.mp3
+#EXTINF:0,Romans 13
+nt\06_romans\06_romans_13.mp3
+#EXTINF:0,1 Timothy 5
+nt\15_1-timothy\15_1-timothy_05.mp3
+#EXTINF:0,Job 13
+ot\18_job\18_job_013.mp3
+#EXTINF:0,Psalms 13
+ot\19_psalms\19_psalms_013.mp3
+#EXTINF:0,Proverbs 13
+ot\20_proverbs\20_proverbs_013.mp3
+#EXTINF:0,Joshua 13
+ot\06_joshua\06_joshua_013.mp3
+#EXTINF:0,Isaiah 13
+ot\23_isaiah\23_isaiah_013.mp3
+#EXTINF:0,Acts 13
+nt\05_acts\05_acts_13.mp3

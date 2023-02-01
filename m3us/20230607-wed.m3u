@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Wednesday, 7 June 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,John 1
+nt\04_john\04_john_01.mp3
+#EXTINF:0,Deuteronomy 5
+ot\05_deuteronomy\05_deuteronomy_005.mp3
+#EXTINF:0,Romans 2
+nt\06_romans\06_romans_02.mp3
+#EXTINF:0,1 Peter 1
+nt\21_1-peter\21_1-peter_01.mp3
+#EXTINF:0,Job 34
+ot\18_job\18_job_034.mp3
+#EXTINF:0,Psalms 8
+ot\19_psalms\19_psalms_008.mp3
+#EXTINF:0,Proverbs 3
+ot\20_proverbs\20_proverbs_003.mp3
+#EXTINF:0,1 Chronicles 7
+ot\13_1-chronicles\13_1-chronicles_007.mp3
+#EXTINF:0,Ezekiel 35
+ot\26_ezekiel\26_ezekiel_035.mp3
+#EXTINF:0,Acts 18
+nt\05_acts\05_acts_18.mp3

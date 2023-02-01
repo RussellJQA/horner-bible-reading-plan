@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Sunday, 6 August 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Mark 12
+nt\02_mark\02_mark_12.mp3
+#EXTINF:0,Genesis 31
+ot\01_genesis\01_genesis_031.mp3
+#EXTINF:0,Colossians 1
+nt\12_colossians\12_colossians_01.mp3
+#EXTINF:0,James 1
+nt\20_james\20_james_01.mp3
+#EXTINF:0,Job 32
+ot\18_job\18_job_032.mp3
+#EXTINF:0,Psalms 68
+ot\19_psalms\19_psalms_068.mp3
+#EXTINF:0,Proverbs 1
+ot\20_proverbs\20_proverbs_001.mp3
+#EXTINF:0,Ezra 2
+ot\15_ezra\15_ezra_002.mp3
+#EXTINF:0,Micah 4
+ot\33_micah\33_micah_004.mp3
+#EXTINF:0,Acts 22
+nt\05_acts\05_acts_22.mp3

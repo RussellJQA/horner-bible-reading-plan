@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Tuesday, 4 July 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 7
+nt\01_matthew\01_matthew_07.mp3
+#EXTINF:0,Deuteronomy 32
+ot\05_deuteronomy\05_deuteronomy_032.mp3
+#EXTINF:0,1 Corinthians 13
+nt\07_1-corinthians\07_1-corinthians_13.mp3
+#EXTINF:0,Revelation 12
+nt\27_revelation\27_revelation_12.mp3
+#EXTINF:0,Song of Songs 7
+ot\22_songofsolomon\22_songofsolomon_007.mp3
+#EXTINF:0,Psalms 35
+ot\19_psalms\19_psalms_035.mp3
+#EXTINF:0,Proverbs 30
+ot\20_proverbs\20_proverbs_030.mp3
+#EXTINF:0,2 Chronicles 5
+ot\14_2-chronicles\14_2-chronicles_005.mp3
+#EXTINF:0,Hosea 2
+ot\28_hosea\28_hosea_002.mp3
+#EXTINF:0,Acts 17
+nt\05_acts\05_acts_17.mp3

@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Tuesday, 10 October 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 16
+nt\01_matthew\01_matthew_16.mp3
+#EXTINF:0,Leviticus 6
+ot\03_leviticus\03_leviticus_006.mp3
+#EXTINF:0,Galatians 4
+nt\09_galatians\09_galatians_04.mp3
+#EXTINF:0,James 1
+nt\20_james\20_james_01.mp3
+#EXTINF:0,Job 35
+ot\18_job\18_job_035.mp3
+#EXTINF:0,Psalms 133
+ot\19_psalms\19_psalms_133.mp3
+#EXTINF:0,Proverbs 4
+ot\20_proverbs\20_proverbs_004.mp3
+#EXTINF:0,Judges 10
+ot\07_judges\07_judges_010.mp3
+#EXTINF:0,Isaiah 33
+ot\23_isaiah\23_isaiah_033.mp3
+#EXTINF:0,Acts 3
+nt\05_acts\05_acts_03.mp3

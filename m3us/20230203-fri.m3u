@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Friday, 3 February 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Mark 6
+nt\02_mark\02_mark_06.mp3
+#EXTINF:0,Genesis 34
+ot\01_genesis\01_genesis_034.mp3
+#EXTINF:0,2 Corinthians 2
+nt\08_2-corinthians\08_2-corinthians_02.mp3
+#EXTINF:0,2 Peter 2
+nt\22_2-peter\22_2-peter_02.mp3
+#EXTINF:0,Job 34
+ot\18_job\18_job_034.mp3
+#EXTINF:0,Psalms 34
+ot\19_psalms\19_psalms_034.mp3
+#EXTINF:0,Proverbs 3
+ot\20_proverbs\20_proverbs_003.mp3
+#EXTINF:0,Judges 10
+ot\07_judges\07_judges_010.mp3
+#EXTINF:0,Isaiah 34
+ot\23_isaiah\23_isaiah_034.mp3
+#EXTINF:0,Acts 6
+nt\05_acts\05_acts_06.mp3

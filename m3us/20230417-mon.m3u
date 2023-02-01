@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Monday, 17 April 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 18
+nt\01_matthew\01_matthew_18.mp3
+#EXTINF:0,Leviticus 17
+ot\03_leviticus\03_leviticus_017.mp3
+#EXTINF:0,1 Corinthians 13
+nt\07_1-corinthians\07_1-corinthians_13.mp3
+#EXTINF:0,3 John 1
+nt\25_3-john\25_3-john_01.mp3
+#EXTINF:0,Ecclesiastes 3
+ot\21_ecclesiastes\21_ecclesiastes_003.mp3
+#EXTINF:0,Psalms 107
+ot\19_psalms\19_psalms_107.mp3
+#EXTINF:0,Proverbs 14
+ot\20_proverbs\20_proverbs_014.mp3
+#EXTINF:0,1 Kings 3
+ot\11_1-kings\11_1-kings_003.mp3
+#EXTINF:0,Jeremiah 41
+ot\24_jeremiah\24_jeremiah_041.mp3
+#EXTINF:0,Acts 23
+nt\05_acts\05_acts_23.mp3

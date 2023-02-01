@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Tuesday, 28 March 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,John 19
+nt\04_john\04_john_19.mp3
+#EXTINF:0,Exodus 37
+ot\02_exodus\02_exodus_037.mp3
+#EXTINF:0,Romans 9
+nt\06_romans\06_romans_09.mp3
+#EXTINF:0,Philemon 1
+nt\18_philemon\18_philemon_01.mp3
+#EXTINF:0,Job 25
+ot\18_job\18_job_025.mp3
+#EXTINF:0,Psalms 87
+ot\19_psalms\19_psalms_087.mp3
+#EXTINF:0,Proverbs 25
+ot\20_proverbs\20_proverbs_025.mp3
+#EXTINF:0,2 Samuel 7
+ot\10_2-samuel\10_2-samuel_007.mp3
+#EXTINF:0,Jeremiah 21
+ot\24_jeremiah\24_jeremiah_021.mp3
+#EXTINF:0,Acts 3
+nt\05_acts\05_acts_03.mp3

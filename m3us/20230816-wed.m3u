@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Wednesday, 16 August 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 6
+nt\03_luke\03_luke_06.mp3
+#EXTINF:0,Genesis 41
+ot\01_genesis\01_genesis_041.mp3
+#EXTINF:0,Hebrews 7
+nt\19_hebrews\19_hebrews_07.mp3
+#EXTINF:0,2 Peter 1
+nt\22_2-peter\22_2-peter_01.mp3
+#EXTINF:0,Job 42
+ot\18_job\18_job_042.mp3
+#EXTINF:0,Psalms 78
+ot\19_psalms\19_psalms_078.mp3
+#EXTINF:0,Proverbs 11
+ot\20_proverbs\20_proverbs_011.mp3
+#EXTINF:0,Nehemiah 2
+ot\16_nehemiah\16_nehemiah_002.mp3
+#EXTINF:0,Zephaniah 1
+ot\36_zephaniah\36_zephaniah_001.mp3
+#EXTINF:0,Acts 4
+nt\05_acts\05_acts_04.mp3

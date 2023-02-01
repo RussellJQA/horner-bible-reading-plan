@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Thursday, 18 May 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 5
+nt\03_luke\03_luke_05.mp3
+#EXTINF:0,Numbers 21
+ot\04_numbers\04_numbers_021.mp3
+#EXTINF:0,Philippians 3
+nt\11_philippians\11_philippians_03.mp3
+#EXTINF:0,2 Thessalonians 3
+nt\14_2-thessalonians\14_2-thessalonians_03.mp3
+#EXTINF:0,Job 14
+ot\18_job\18_job_014.mp3
+#EXTINF:0,Psalms 138
+ot\19_psalms\19_psalms_138.mp3
+#EXTINF:0,Proverbs 14
+ot\20_proverbs\20_proverbs_014.mp3
+#EXTINF:0,2 Kings 12
+ot\12_2-kings\12_2-kings_012.mp3
+#EXTINF:0,Ezekiel 15
+ot\26_ezekiel\26_ezekiel_015.mp3
+#EXTINF:0,Acts 26
+nt\05_acts\05_acts_26.mp3

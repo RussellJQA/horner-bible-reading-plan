@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Sunday, 8 January 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 8
+nt\01_matthew\01_matthew_08.mp3
+#EXTINF:0,Genesis 8
+ot\01_genesis\01_genesis_008.mp3
+#EXTINF:0,Romans 8
+nt\06_romans\06_romans_08.mp3
+#EXTINF:0,2 Thessalonians 3
+nt\14_2-thessalonians\14_2-thessalonians_03.mp3
+#EXTINF:0,Job 8
+ot\18_job\18_job_008.mp3
+#EXTINF:0,Psalms 8
+ot\19_psalms\19_psalms_008.mp3
+#EXTINF:0,Proverbs 8
+ot\20_proverbs\20_proverbs_008.mp3
+#EXTINF:0,Joshua 8
+ot\06_joshua\06_joshua_008.mp3
+#EXTINF:0,Isaiah 8
+ot\23_isaiah\23_isaiah_008.mp3
+#EXTINF:0,Acts 8
+nt\05_acts\05_acts_08.mp3

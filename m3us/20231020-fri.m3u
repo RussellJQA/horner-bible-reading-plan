@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Friday, 20 October 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 26
+nt\01_matthew\01_matthew_26.mp3
+#EXTINF:0,Leviticus 16
+ot\03_leviticus\03_leviticus_016.mp3
+#EXTINF:0,Philippians 2
+nt\11_philippians\11_philippians_02.mp3
+#EXTINF:0,2 Peter 1
+nt\22_2-peter\22_2-peter_01.mp3
+#EXTINF:0,Ecclesiastes 3
+ot\21_ecclesiastes\21_ecclesiastes_003.mp3
+#EXTINF:0,Psalms 143
+ot\19_psalms\19_psalms_143.mp3
+#EXTINF:0,Proverbs 14
+ot\20_proverbs\20_proverbs_014.mp3
+#EXTINF:0,Judges 20
+ot\07_judges\07_judges_020.mp3
+#EXTINF:0,Isaiah 43
+ot\23_isaiah\23_isaiah_043.mp3
+#EXTINF:0,Acts 13
+nt\05_acts\05_acts_13.mp3

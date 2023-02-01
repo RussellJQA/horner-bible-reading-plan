@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Monday, 26 June 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,John 20
+nt\04_john\04_john_20.mp3
+#EXTINF:0,Deuteronomy 24
+ot\05_deuteronomy\05_deuteronomy_024.mp3
+#EXTINF:0,1 Corinthians 5
+nt\07_1-corinthians\07_1-corinthians_05.mp3
+#EXTINF:0,Revelation 4
+nt\27_revelation\27_revelation_04.mp3
+#EXTINF:0,Ecclesiastes 11
+ot\21_ecclesiastes\21_ecclesiastes_011.mp3
+#EXTINF:0,Psalms 27
+ot\19_psalms\19_psalms_027.mp3
+#EXTINF:0,Proverbs 22
+ot\20_proverbs\20_proverbs_022.mp3
+#EXTINF:0,1 Chronicles 26
+ot\13_1-chronicles\13_1-chronicles_026.mp3
+#EXTINF:0,Daniel 6
+ot\27_daniel\27_daniel_006.mp3
+#EXTINF:0,Acts 9
+nt\05_acts\05_acts_09.mp3

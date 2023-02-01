@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Monday, 20 February 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 7
+nt\03_luke\03_luke_07.mp3
+#EXTINF:0,Exodus 1
+ot\02_exodus\02_exodus_001.mp3
+#EXTINF:0,Galatians 6
+nt\09_galatians\09_galatians_06.mp3
+#EXTINF:0,Revelation 8
+nt\27_revelation\27_revelation_08.mp3
+#EXTINF:0,Ecclesiastes 9
+ot\21_ecclesiastes\21_ecclesiastes_009.mp3
+#EXTINF:0,Psalms 51
+ot\19_psalms\19_psalms_051.mp3
+#EXTINF:0,Proverbs 20
+ot\20_proverbs\20_proverbs_020.mp3
+#EXTINF:0,1 Samuel 2
+ot\09_1-samuel\09_1-samuel_002.mp3
+#EXTINF:0,Isaiah 51
+ot\23_isaiah\23_isaiah_051.mp3
+#EXTINF:0,Acts 23
+nt\05_acts\05_acts_23.mp3

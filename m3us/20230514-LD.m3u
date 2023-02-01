@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Sunday, 14 May 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 1
+nt\03_luke\03_luke_01.mp3
+#EXTINF:0,Numbers 17
+ot\04_numbers\04_numbers_017.mp3
+#EXTINF:0,Ephesians 5
+nt\10_ephesians\10_ephesians_05.mp3
+#EXTINF:0,1 Thessalonians 4
+nt\13_1-thessalonians\13_1-thessalonians_04.mp3
+#EXTINF:0,Job 10
+ot\18_job\18_job_010.mp3
+#EXTINF:0,Psalms 134
+ot\19_psalms\19_psalms_134.mp3
+#EXTINF:0,Proverbs 10
+ot\20_proverbs\20_proverbs_010.mp3
+#EXTINF:0,2 Kings 8
+ot\12_2-kings\12_2-kings_008.mp3
+#EXTINF:0,Ezekiel 11
+ot\26_ezekiel\26_ezekiel_011.mp3
+#EXTINF:0,Acts 22
+nt\05_acts\05_acts_22.mp3
