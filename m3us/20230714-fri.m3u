@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Friday, 14 July 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 17
+nt\01_matthew\01_matthew_17.mp3
+#EXTINF:0,Genesis 8
+ot\01_genesis\01_genesis_008.mp3
+#EXTINF:0,2 Corinthians 7
+nt\08_2-corinthians\08_2-corinthians_07.mp3
+#EXTINF:0,Revelation 22
+nt\27_revelation\27_revelation_22.mp3
+#EXTINF:0,Job 9
+ot\18_job\18_job_009.mp3
+#EXTINF:0,Psalms 45
+ot\19_psalms\19_psalms_045.mp3
+#EXTINF:0,Proverbs 9
+ot\20_proverbs\20_proverbs_009.mp3
+#EXTINF:0,2 Chronicles 15
+ot\14_2-chronicles\14_2-chronicles_015.mp3
+#EXTINF:0,Hosea 12
+ot\28_hosea\28_hosea_012.mp3
+#EXTINF:0,Acts 27
+nt\05_acts\05_acts_27.mp3

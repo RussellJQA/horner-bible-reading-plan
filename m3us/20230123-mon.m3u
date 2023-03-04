@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Monday, 23 January 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 23
+nt\01_matthew\01_matthew_23.mp3
+#EXTINF:0,Genesis 23
+ot\01_genesis\01_genesis_023.mp3
+#EXTINF:0,1 Corinthians 7
+nt\07_1-corinthians\07_1-corinthians_07.mp3
+#EXTINF:0,James 1
+nt\20_james\20_james_01.mp3
+#EXTINF:0,Job 23
+ot\18_job\18_job_023.mp3
+#EXTINF:0,Psalms 23
+ot\19_psalms\19_psalms_023.mp3
+#EXTINF:0,Proverbs 23
+ot\20_proverbs\20_proverbs_023.mp3
+#EXTINF:0,Joshua 23
+ot\06_joshua\06_joshua_023.mp3
+#EXTINF:0,Isaiah 23
+ot\23_isaiah\23_isaiah_023.mp3
+#EXTINF:0,Acts 23
+nt\05_acts\05_acts_23.mp3

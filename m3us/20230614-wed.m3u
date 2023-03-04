@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Wednesday, 14 June 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,John 8
+nt\04_john\04_john_08.mp3
+#EXTINF:0,Deuteronomy 12
+ot\05_deuteronomy\05_deuteronomy_012.mp3
+#EXTINF:0,Romans 9
+nt\06_romans\06_romans_09.mp3
+#EXTINF:0,2 Peter 3
+nt\22_2-peter\22_2-peter_03.mp3
+#EXTINF:0,Job 41
+ot\18_job\18_job_041.mp3
+#EXTINF:0,Psalms 15
+ot\19_psalms\19_psalms_015.mp3
+#EXTINF:0,Proverbs 10
+ot\20_proverbs\20_proverbs_010.mp3
+#EXTINF:0,1 Chronicles 14
+ot\13_1-chronicles\13_1-chronicles_014.mp3
+#EXTINF:0,Ezekiel 42
+ot\26_ezekiel\26_ezekiel_042.mp3
+#EXTINF:0,Acts 25
+nt\05_acts\05_acts_25.mp3

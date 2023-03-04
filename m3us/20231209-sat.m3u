@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Saturday, 9 December 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,John 8
+nt\04_john\04_john_08.mp3
+#EXTINF:0,Deuteronomy 3
+ot\05_deuteronomy\05_deuteronomy_003.mp3
+#EXTINF:0,1 Corinthians 15
+nt\07_1-corinthians\07_1-corinthians_15.mp3
+#EXTINF:0,2 Timothy 4
+nt\16_2-timothy\16_2-timothy_04.mp3
+#EXTINF:0,Job 33
+ot\18_job\18_job_033.mp3
+#EXTINF:0,Psalms 43
+ot\19_psalms\19_psalms_043.mp3
+#EXTINF:0,Proverbs 2
+ot\20_proverbs\20_proverbs_002.mp3
+#EXTINF:0,2 Samuel 14
+ot\10_2-samuel\10_2-samuel_014.mp3
+#EXTINF:0,Jeremiah 27
+ot\24_jeremiah\24_jeremiah_027.mp3
+#EXTINF:0,Acts 7
+nt\05_acts\05_acts_07.mp3

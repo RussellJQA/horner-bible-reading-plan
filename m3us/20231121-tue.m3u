@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Tuesday, 21 November 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 14
+nt\03_luke\03_luke_14.mp3
+#EXTINF:0,Numbers 21
+ot\04_numbers\04_numbers_021.mp3
+#EXTINF:0,Romans 13
+nt\06_romans\06_romans_13.mp3
+#EXTINF:0,Revelation 22
+nt\27_revelation\27_revelation_22.mp3
+#EXTINF:0,Job 15
+ot\18_job\18_job_015.mp3
+#EXTINF:0,Psalms 25
+ot\19_psalms\19_psalms_025.mp3
+#EXTINF:0,Proverbs 15
+ot\20_proverbs\20_proverbs_015.mp3
+#EXTINF:0,1 Samuel 27
+ot\09_1-samuel\09_1-samuel_027.mp3
+#EXTINF:0,Jeremiah 9
+ot\24_jeremiah\24_jeremiah_009.mp3
+#EXTINF:0,Acts 17
+nt\05_acts\05_acts_17.mp3

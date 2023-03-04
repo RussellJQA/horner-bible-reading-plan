@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Wednesday, 27 September 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 3
+nt\01_matthew\01_matthew_03.mp3
+#EXTINF:0,Exodus 33
+ot\02_exodus\02_exodus_033.mp3
+#EXTINF:0,2 Corinthians 4
+nt\08_2-corinthians\08_2-corinthians_04.mp3
+#EXTINF:0,1 Timothy 2
+nt\15_1-timothy\15_1-timothy_02.mp3
+#EXTINF:0,Job 22
+ot\18_job\18_job_022.mp3
+#EXTINF:0,Psalms 120
+ot\19_psalms\19_psalms_120.mp3
+#EXTINF:0,Proverbs 22
+ot\20_proverbs\20_proverbs_022.mp3
+#EXTINF:0,Joshua 21
+ot\06_joshua\06_joshua_021.mp3
+#EXTINF:0,Isaiah 20
+ot\23_isaiah\23_isaiah_020.mp3
+#EXTINF:0,Acts 18
+nt\05_acts\05_acts_18.mp3

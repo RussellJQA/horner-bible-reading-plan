@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Monday, 4 September 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,John 1
+nt\04_john\04_john_01.mp3
+#EXTINF:0,Exodus 10
+ot\02_exodus\02_exodus_010.mp3
+#EXTINF:0,Romans 13
+nt\06_romans\06_romans_13.mp3
+#EXTINF:0,Revelation 9
+nt\27_revelation\27_revelation_09.mp3
+#EXTINF:0,Song of Songs 7
+ot\22_songofsolomon\22_songofsolomon_007.mp3
+#EXTINF:0,Psalms 97
+ot\19_psalms\19_psalms_097.mp3
+#EXTINF:0,Proverbs 30
+ot\20_proverbs\20_proverbs_030.mp3
+#EXTINF:0,Esther 8
+ot\17_esther\17_esther_008.mp3
+#EXTINF:0,Malachi 1
+ot\39_malachi\39_malachi_001.mp3
+#EXTINF:0,Acts 23
+nt\05_acts\05_acts_23.mp3

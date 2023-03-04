@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Saturday, 4 November 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Mark 13
+nt\02_mark\02_mark_13.mp3
+#EXTINF:0,Numbers 4
+ot\04_numbers\04_numbers_004.mp3
+#EXTINF:0,Hebrews 9
+nt\19_hebrews\19_hebrews_09.mp3
+#EXTINF:0,Revelation 5
+nt\27_revelation\27_revelation_05.mp3
+#EXTINF:0,Song of Songs 6
+ot\22_songofsolomon\22_songofsolomon_006.mp3
+#EXTINF:0,Psalms 8
+ot\19_psalms\19_psalms_008.mp3
+#EXTINF:0,Proverbs 29
+ot\20_proverbs\20_proverbs_029.mp3
+#EXTINF:0,1 Samuel 10
+ot\09_1-samuel\09_1-samuel_010.mp3
+#EXTINF:0,Isaiah 58
+ot\23_isaiah\23_isaiah_058.mp3
+#EXTINF:0,Acts 28
+nt\05_acts\05_acts_28.mp3

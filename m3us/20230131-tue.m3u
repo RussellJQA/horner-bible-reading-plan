@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Tuesday, 31 January 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Mark 3
+nt\02_mark\02_mark_03.mp3
+#EXTINF:0,Genesis 31
+ot\01_genesis\01_genesis_031.mp3
+#EXTINF:0,1 Corinthians 15
+nt\07_1-corinthians\07_1-corinthians_15.mp3
+#EXTINF:0,1 Peter 4
+nt\21_1-peter\21_1-peter_04.mp3
+#EXTINF:0,Job 31
+ot\18_job\18_job_031.mp3
+#EXTINF:0,Psalms 31
+ot\19_psalms\19_psalms_031.mp3
+#EXTINF:0,Proverbs 31
+ot\20_proverbs\20_proverbs_031.mp3
+#EXTINF:0,Judges 7
+ot\07_judges\07_judges_007.mp3
+#EXTINF:0,Isaiah 31
+ot\23_isaiah\23_isaiah_031.mp3
+#EXTINF:0,Acts 3
+nt\05_acts\05_acts_03.mp3

@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Saturday, 26 August 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 16
+nt\03_luke\03_luke_16.mp3
+#EXTINF:0,Exodus 1
+ot\02_exodus\02_exodus_001.mp3
+#EXTINF:0,Romans 4
+nt\06_romans\06_romans_04.mp3
+#EXTINF:0,Jude 1
+nt\26_jude\26_jude_01.mp3
+#EXTINF:0,Ecclesiastes 10
+ot\21_ecclesiastes\21_ecclesiastes_010.mp3
+#EXTINF:0,Psalms 88
+ot\19_psalms\19_psalms_088.mp3
+#EXTINF:0,Proverbs 21
+ot\20_proverbs\20_proverbs_021.mp3
+#EXTINF:0,Nehemiah 12
+ot\16_nehemiah\16_nehemiah_012.mp3
+#EXTINF:0,Zechariah 6
+ot\38_zechariah\38_zechariah_006.mp3
+#EXTINF:0,Acts 14
+nt\05_acts\05_acts_14.mp3

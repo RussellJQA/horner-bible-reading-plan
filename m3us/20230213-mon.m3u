@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Monday, 13 February 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Mark 16
+nt\02_mark\02_mark_16.mp3
+#EXTINF:0,Genesis 44
+ot\01_genesis\01_genesis_044.mp3
+#EXTINF:0,2 Corinthians 12
+nt\08_2-corinthians\08_2-corinthians_12.mp3
+#EXTINF:0,Revelation 1
+nt\27_revelation\27_revelation_01.mp3
+#EXTINF:0,Ecclesiastes 2
+ot\21_ecclesiastes\21_ecclesiastes_002.mp3
+#EXTINF:0,Psalms 44
+ot\19_psalms\19_psalms_044.mp3
+#EXTINF:0,Proverbs 13
+ot\20_proverbs\20_proverbs_013.mp3
+#EXTINF:0,Judges 20
+ot\07_judges\07_judges_020.mp3
+#EXTINF:0,Isaiah 44
+ot\23_isaiah\23_isaiah_044.mp3
+#EXTINF:0,Acts 16
+nt\05_acts\05_acts_16.mp3

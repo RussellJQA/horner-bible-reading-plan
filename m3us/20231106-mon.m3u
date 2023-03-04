@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Monday, 6 November 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Mark 15
+nt\02_mark\02_mark_15.mp3
+#EXTINF:0,Numbers 6
+ot\04_numbers\04_numbers_006.mp3
+#EXTINF:0,Hebrews 11
+nt\19_hebrews\19_hebrews_11.mp3
+#EXTINF:0,Revelation 7
+nt\27_revelation\27_revelation_07.mp3
+#EXTINF:0,Song of Songs 8
+ot\22_songofsolomon\22_songofsolomon_008.mp3
+#EXTINF:0,Psalms 10
+ot\19_psalms\19_psalms_010.mp3
+#EXTINF:0,Proverbs 31
+ot\20_proverbs\20_proverbs_031.mp3
+#EXTINF:0,1 Samuel 12
+ot\09_1-samuel\09_1-samuel_012.mp3
+#EXTINF:0,Isaiah 60
+ot\23_isaiah\23_isaiah_060.mp3
+#EXTINF:0,Acts 2
+nt\05_acts\05_acts_02.mp3

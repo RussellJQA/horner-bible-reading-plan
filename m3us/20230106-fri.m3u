@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Friday, 6 January 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 6
+nt\01_matthew\01_matthew_06.mp3
+#EXTINF:0,Genesis 6
+ot\01_genesis\01_genesis_006.mp3
+#EXTINF:0,Romans 6
+nt\06_romans\06_romans_06.mp3
+#EXTINF:0,2 Thessalonians 1
+nt\14_2-thessalonians\14_2-thessalonians_01.mp3
+#EXTINF:0,Job 6
+ot\18_job\18_job_006.mp3
+#EXTINF:0,Psalms 6
+ot\19_psalms\19_psalms_006.mp3
+#EXTINF:0,Proverbs 6
+ot\20_proverbs\20_proverbs_006.mp3
+#EXTINF:0,Joshua 6
+ot\06_joshua\06_joshua_006.mp3
+#EXTINF:0,Isaiah 6
+ot\23_isaiah\23_isaiah_006.mp3
+#EXTINF:0,Acts 6
+nt\05_acts\05_acts_06.mp3

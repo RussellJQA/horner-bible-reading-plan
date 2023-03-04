@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Friday, 24 February 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 11
+nt\03_luke\03_luke_11.mp3
+#EXTINF:0,Exodus 5
+ot\02_exodus\02_exodus_005.mp3
+#EXTINF:0,Ephesians 4
+nt\10_ephesians\10_ephesians_04.mp3
+#EXTINF:0,Revelation 12
+nt\27_revelation\27_revelation_12.mp3
+#EXTINF:0,Song of Songs 1
+ot\22_songofsolomon\22_songofsolomon_001.mp3
+#EXTINF:0,Psalms 55
+ot\19_psalms\19_psalms_055.mp3
+#EXTINF:0,Proverbs 24
+ot\20_proverbs\20_proverbs_024.mp3
+#EXTINF:0,1 Samuel 6
+ot\09_1-samuel\09_1-samuel_006.mp3
+#EXTINF:0,Isaiah 55
+ot\23_isaiah\23_isaiah_055.mp3
+#EXTINF:0,Acts 27
+nt\05_acts\05_acts_27.mp3

@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Saturday, 22 July 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 25
+nt\01_matthew\01_matthew_25.mp3
+#EXTINF:0,Genesis 16
+ot\01_genesis\01_genesis_016.mp3
+#EXTINF:0,Galatians 2
+nt\09_galatians\09_galatians_02.mp3
+#EXTINF:0,2 Thessalonians 3
+nt\14_2-thessalonians\14_2-thessalonians_03.mp3
+#EXTINF:0,Job 17
+ot\18_job\18_job_017.mp3
+#EXTINF:0,Psalms 53
+ot\19_psalms\19_psalms_053.mp3
+#EXTINF:0,Proverbs 17
+ot\20_proverbs\20_proverbs_017.mp3
+#EXTINF:0,2 Chronicles 23
+ot\14_2-chronicles\14_2-chronicles_023.mp3
+#EXTINF:0,Amos 3
+ot\30_amos\30_amos_003.mp3
+#EXTINF:0,Acts 7
+nt\05_acts\05_acts_07.mp3

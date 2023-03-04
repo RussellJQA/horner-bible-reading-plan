@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Monday, 25 December 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Matthew 3
+nt\01_matthew\01_matthew_03.mp3
+#EXTINF:0,Deuteronomy 19
+ot\05_deuteronomy\05_deuteronomy_019.mp3
+#EXTINF:0,Galatians 2
+nt\09_galatians\09_galatians_02.mp3
+#EXTINF:0,2 Peter 2
+nt\22_2-peter\22_2-peter_02.mp3
+#EXTINF:0,Ecclesiastes 7
+ot\21_ecclesiastes\21_ecclesiastes_007.mp3
+#EXTINF:0,Psalms 59
+ot\19_psalms\19_psalms_059.mp3
+#EXTINF:0,Proverbs 18
+ot\20_proverbs\20_proverbs_018.mp3
+#EXTINF:0,1 Kings 6
+ot\11_1-kings\11_1-kings_006.mp3
+#EXTINF:0,Jeremiah 43
+ot\24_jeremiah\24_jeremiah_043.mp3
+#EXTINF:0,Acts 23
+nt\05_acts\05_acts_23.mp3

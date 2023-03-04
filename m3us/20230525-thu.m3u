@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Thursday, 25 May 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 12
+nt\03_luke\03_luke_12.mp3
+#EXTINF:0,Numbers 28
+ot\04_numbers\04_numbers_028.mp3
+#EXTINF:0,Hebrews 2
+nt\19_hebrews\19_hebrews_02.mp3
+#EXTINF:0,2 Timothy 1
+nt\16_2-timothy\16_2-timothy_01.mp3
+#EXTINF:0,Job 21
+ot\18_job\18_job_021.mp3
+#EXTINF:0,Psalms 145
+ot\19_psalms\19_psalms_145.mp3
+#EXTINF:0,Proverbs 21
+ot\20_proverbs\20_proverbs_021.mp3
+#EXTINF:0,2 Kings 19
+ot\12_2-kings\12_2-kings_019.mp3
+#EXTINF:0,Ezekiel 22
+ot\26_ezekiel\26_ezekiel_022.mp3
+#EXTINF:0,Acts 5
+nt\05_acts\05_acts_05.mp3

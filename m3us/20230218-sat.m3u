@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:Saturday, 18 February 2023
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+EXTGENRE:Speech
+#EXTINF:0,Luke 5
+nt\03_luke\03_luke_05.mp3
+#EXTINF:0,Genesis 49
+ot\01_genesis\01_genesis_049.mp3
+#EXTINF:0,Galatians 4
+nt\09_galatians\09_galatians_04.mp3
+#EXTINF:0,Revelation 6
+nt\27_revelation\27_revelation_06.mp3
+#EXTINF:0,Ecclesiastes 7
+ot\21_ecclesiastes\21_ecclesiastes_007.mp3
+#EXTINF:0,Psalms 49
+ot\19_psalms\19_psalms_049.mp3
+#EXTINF:0,Proverbs 18
+ot\20_proverbs\20_proverbs_018.mp3
+#EXTINF:0,Ruth 4
+ot\08_ruth\08_ruth_004.mp3
+#EXTINF:0,Isaiah 49
+ot\23_isaiah\23_isaiah_049.mp3
+#EXTINF:0,Acts 21
+nt\05_acts\05_acts_21.mp3
