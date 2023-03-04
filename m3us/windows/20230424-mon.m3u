@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-04-24 Mon
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 25
+nt\01_matthew\01_matthew_25.mp3
+#EXTINF:0,Leviticus 24
+ot\03_leviticus\03_leviticus_024.mp3
+#EXTINF:0,2 Corinthians 4
+nt\08_2-corinthians\08_2-corinthians_04.mp3
+#EXTINF:0,Revelation 6
+nt\27_revelation\27_revelation_06.mp3
+#EXTINF:0,Ecclesiastes 10
+ot\21_ecclesiastes\21_ecclesiastes_010.mp3
+#EXTINF:0,Psalms 114
+ot\19_psalms\19_psalms_114.mp3
+#EXTINF:0,Proverbs 21
+ot\20_proverbs\20_proverbs_021.mp3
+#EXTINF:0,1 Kings 10
+ot\11_1-kings\11_1-kings_010.mp3
+#EXTINF:0,Jeremiah 48
+ot\24_jeremiah\24_jeremiah_048.mp3
+#EXTINF:0,Acts 2
+nt\05_acts\05_acts_02.mp3

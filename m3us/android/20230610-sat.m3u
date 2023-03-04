@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-06-10 Preparation Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 4
+/storage/emulated/0/Music/BibleAudio/nt/04_john/04_john_04.mp3
+#EXTINF:0,Deuteronomy 8
+/storage/emulated/0/Music/BibleAudio/ot/05_deuteronomy/05_deuteronomy_008.mp3
+#EXTINF:0,Romans 5
+/storage/emulated/0/Music/BibleAudio/nt/06_romans/06_romans_05.mp3
+#EXTINF:0,1 Peter 4
+/storage/emulated/0/Music/BibleAudio/nt/21_1-peter/21_1-peter_04.mp3
+#EXTINF:0,Job 37
+/storage/emulated/0/Music/BibleAudio/ot/18_job/18_job_037.mp3
+#EXTINF:0,Psalms 11
+/storage/emulated/0/Music/BibleAudio/ot/19_psalms/19_psalms_011.mp3
+#EXTINF:0,Proverbs 6
+/storage/emulated/0/Music/BibleAudio/ot/20_proverbs/20_proverbs_006.mp3
+#EXTINF:0,1 Chronicles 10
+/storage/emulated/0/Music/BibleAudio/ot/13_1-chronicles/13_1-chronicles_010.mp3
+#EXTINF:0,Ezekiel 38
+/storage/emulated/0/Music/BibleAudio/ot/26_ezekiel/26_ezekiel_038.mp3
+#EXTINF:0,Acts 21
+/storage/emulated/0/Music/BibleAudio/nt/05_acts/05_acts_21.mp3

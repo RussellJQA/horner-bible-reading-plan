@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-09-12 Tue
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 9
+nt\04_john\04_john_09.mp3
+#EXTINF:0,Exodus 18
+ot\02_exodus\02_exodus_018.mp3
+#EXTINF:0,1 Corinthians 5
+nt\07_1-corinthians\07_1-corinthians_05.mp3
+#EXTINF:0,Revelation 17
+nt\27_revelation\27_revelation_17.mp3
+#EXTINF:0,Job 7
+ot\18_job\18_job_007.mp3
+#EXTINF:0,Psalms 105
+ot\19_psalms\19_psalms_105.mp3
+#EXTINF:0,Proverbs 7
+ot\20_proverbs\20_proverbs_007.mp3
+#EXTINF:0,Joshua 6
+ot\06_joshua\06_joshua_006.mp3
+#EXTINF:0,Isaiah 5
+ot\23_isaiah\23_isaiah_005.mp3
+#EXTINF:0,Acts 3
+nt\05_acts\05_acts_03.mp3

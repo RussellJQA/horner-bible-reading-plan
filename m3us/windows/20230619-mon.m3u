@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-06-19 Mon
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 13
+nt\04_john\04_john_13.mp3
+#EXTINF:0,Deuteronomy 17
+ot\05_deuteronomy\05_deuteronomy_017.mp3
+#EXTINF:0,Romans 14
+nt\06_romans\06_romans_14.mp3
+#EXTINF:0,1 John 5
+nt\23_1-john\23_1-john_05.mp3
+#EXTINF:0,Ecclesiastes 4
+ot\21_ecclesiastes\21_ecclesiastes_004.mp3
+#EXTINF:0,Psalms 20
+ot\19_psalms\19_psalms_020.mp3
+#EXTINF:0,Proverbs 15
+ot\20_proverbs\20_proverbs_015.mp3
+#EXTINF:0,1 Chronicles 19
+ot\13_1-chronicles\13_1-chronicles_019.mp3
+#EXTINF:0,Ezekiel 47
+ot\26_ezekiel\26_ezekiel_047.mp3
+#EXTINF:0,Acts 2
+nt\05_acts\05_acts_02.mp3

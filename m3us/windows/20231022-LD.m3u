@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-10-22 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 28
+nt\01_matthew\01_matthew_28.mp3
+#EXTINF:0,Leviticus 18
+ot\03_leviticus\03_leviticus_018.mp3
+#EXTINF:0,Philippians 4
+nt\11_philippians\11_philippians_04.mp3
+#EXTINF:0,2 Peter 3
+nt\22_2-peter\22_2-peter_03.mp3
+#EXTINF:0,Ecclesiastes 5
+ot\21_ecclesiastes\21_ecclesiastes_005.mp3
+#EXTINF:0,Psalms 145
+ot\19_psalms\19_psalms_145.mp3
+#EXTINF:0,Proverbs 16
+ot\20_proverbs\20_proverbs_016.mp3
+#EXTINF:0,Ruth 1
+ot\08_ruth\08_ruth_001.mp3
+#EXTINF:0,Isaiah 45
+ot\23_isaiah\23_isaiah_045.mp3
+#EXTINF:0,Acts 15
+nt\05_acts\05_acts_15.mp3

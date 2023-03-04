@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-11-29 Wed
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Luke 22
+nt\03_luke\03_luke_22.mp3
+#EXTINF:0,Numbers 29
+ot\04_numbers\04_numbers_029.mp3
+#EXTINF:0,1 Corinthians 5
+nt\07_1-corinthians\07_1-corinthians_05.mp3
+#EXTINF:0,2 Thessalonians 3
+nt\14_2-thessalonians\14_2-thessalonians_03.mp3
+#EXTINF:0,Job 23
+ot\18_job\18_job_023.mp3
+#EXTINF:0,Psalms 33
+ot\19_psalms\19_psalms_033.mp3
+#EXTINF:0,Proverbs 23
+ot\20_proverbs\20_proverbs_023.mp3
+#EXTINF:0,2 Samuel 4
+ot\10_2-samuel\10_2-samuel_004.mp3
+#EXTINF:0,Jeremiah 17
+ot\24_jeremiah\24_jeremiah_017.mp3
+#EXTINF:0,Acts 25
+nt\05_acts\05_acts_25.mp3

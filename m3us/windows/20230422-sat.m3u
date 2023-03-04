@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-04-22 Preparation Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 23
+nt\01_matthew\01_matthew_23.mp3
+#EXTINF:0,Leviticus 22
+ot\03_leviticus\03_leviticus_022.mp3
+#EXTINF:0,2 Corinthians 2
+nt\08_2-corinthians\08_2-corinthians_02.mp3
+#EXTINF:0,Revelation 4
+nt\27_revelation\27_revelation_04.mp3
+#EXTINF:0,Ecclesiastes 8
+ot\21_ecclesiastes\21_ecclesiastes_008.mp3
+#EXTINF:0,Psalms 112
+ot\19_psalms\19_psalms_112.mp3
+#EXTINF:0,Proverbs 19
+ot\20_proverbs\20_proverbs_019.mp3
+#EXTINF:0,1 Kings 8
+ot\11_1-kings\11_1-kings_008.mp3
+#EXTINF:0,Jeremiah 46
+ot\24_jeremiah\24_jeremiah_046.mp3
+#EXTINF:0,Acts 28
+nt\05_acts\05_acts_28.mp3

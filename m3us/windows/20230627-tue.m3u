@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-06-27 Tue
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 21
+nt\04_john\04_john_21.mp3
+#EXTINF:0,Deuteronomy 25
+ot\05_deuteronomy\05_deuteronomy_025.mp3
+#EXTINF:0,1 Corinthians 6
+nt\07_1-corinthians\07_1-corinthians_06.mp3
+#EXTINF:0,Revelation 5
+nt\27_revelation\27_revelation_05.mp3
+#EXTINF:0,Ecclesiastes 12
+ot\21_ecclesiastes\21_ecclesiastes_012.mp3
+#EXTINF:0,Psalms 28
+ot\19_psalms\19_psalms_028.mp3
+#EXTINF:0,Proverbs 23
+ot\20_proverbs\20_proverbs_023.mp3
+#EXTINF:0,1 Chronicles 27
+ot\13_1-chronicles\13_1-chronicles_027.mp3
+#EXTINF:0,Daniel 7
+ot\27_daniel\27_daniel_007.mp3
+#EXTINF:0,Acts 10
+nt\05_acts\05_acts_10.mp3

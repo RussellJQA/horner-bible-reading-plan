@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-10-27 Fri
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Mark 5
+nt\02_mark\02_mark_05.mp3
+#EXTINF:0,Leviticus 23
+ot\03_leviticus\03_leviticus_023.mp3
+#EXTINF:0,Hebrews 1
+nt\19_hebrews\19_hebrews_01.mp3
+#EXTINF:0,1 John 5
+nt\23_1-john\23_1-john_05.mp3
+#EXTINF:0,Ecclesiastes 10
+ot\21_ecclesiastes\21_ecclesiastes_010.mp3
+#EXTINF:0,Psalms 150
+ot\19_psalms\19_psalms_150.mp3
+#EXTINF:0,Proverbs 21
+ot\20_proverbs\20_proverbs_021.mp3
+#EXTINF:0,1 Samuel 2
+ot\09_1-samuel\09_1-samuel_002.mp3
+#EXTINF:0,Isaiah 50
+ot\23_isaiah\23_isaiah_050.mp3
+#EXTINF:0,Acts 20
+nt\05_acts\05_acts_20.mp3

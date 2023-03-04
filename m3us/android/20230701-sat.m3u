@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-07-01 Preparation Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 4
+/storage/emulated/0/Music/BibleAudio/nt/01_matthew/01_matthew_04.mp3
+#EXTINF:0,Deuteronomy 29
+/storage/emulated/0/Music/BibleAudio/ot/05_deuteronomy/05_deuteronomy_029.mp3
+#EXTINF:0,1 Corinthians 10
+/storage/emulated/0/Music/BibleAudio/nt/07_1-corinthians/07_1-corinthians_10.mp3
+#EXTINF:0,Revelation 9
+/storage/emulated/0/Music/BibleAudio/nt/27_revelation/27_revelation_09.mp3
+#EXTINF:0,Song of Songs 4
+/storage/emulated/0/Music/BibleAudio/ot/22_songofsolomon/22_songofsolomon_004.mp3
+#EXTINF:0,Psalms 32
+/storage/emulated/0/Music/BibleAudio/ot/19_psalms/19_psalms_032.mp3
+#EXTINF:0,Proverbs 27
+/storage/emulated/0/Music/BibleAudio/ot/20_proverbs/20_proverbs_027.mp3
+#EXTINF:0,2 Chronicles 2
+/storage/emulated/0/Music/BibleAudio/ot/14_2-chronicles/14_2-chronicles_002.mp3
+#EXTINF:0,Daniel 11
+/storage/emulated/0/Music/BibleAudio/ot/27_daniel/27_daniel_011.mp3
+#EXTINF:0,Acts 14
+/storage/emulated/0/Music/BibleAudio/nt/05_acts/05_acts_14.mp3

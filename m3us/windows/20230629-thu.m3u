@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-06-29 Thu
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 2
+nt\01_matthew\01_matthew_02.mp3
+#EXTINF:0,Deuteronomy 27
+ot\05_deuteronomy\05_deuteronomy_027.mp3
+#EXTINF:0,1 Corinthians 8
+nt\07_1-corinthians\07_1-corinthians_08.mp3
+#EXTINF:0,Revelation 7
+nt\27_revelation\27_revelation_07.mp3
+#EXTINF:0,Song of Songs 2
+ot\22_songofsolomon\22_songofsolomon_002.mp3
+#EXTINF:0,Psalms 30
+ot\19_psalms\19_psalms_030.mp3
+#EXTINF:0,Proverbs 25
+ot\20_proverbs\20_proverbs_025.mp3
+#EXTINF:0,1 Chronicles 29
+ot\13_1-chronicles\13_1-chronicles_029.mp3
+#EXTINF:0,Daniel 9
+ot\27_daniel\27_daniel_009.mp3
+#EXTINF:0,Acts 12
+nt\05_acts\05_acts_12.mp3

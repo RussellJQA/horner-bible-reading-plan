@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-04-26 Wed
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 27
+nt\01_matthew\01_matthew_27.mp3
+#EXTINF:0,Leviticus 26
+ot\03_leviticus\03_leviticus_026.mp3
+#EXTINF:0,2 Corinthians 6
+nt\08_2-corinthians\08_2-corinthians_06.mp3
+#EXTINF:0,Revelation 8
+nt\27_revelation\27_revelation_08.mp3
+#EXTINF:0,Ecclesiastes 12
+ot\21_ecclesiastes\21_ecclesiastes_012.mp3
+#EXTINF:0,Psalms 116
+ot\19_psalms\19_psalms_116.mp3
+#EXTINF:0,Proverbs 23
+ot\20_proverbs\20_proverbs_023.mp3
+#EXTINF:0,1 Kings 12
+ot\11_1-kings\11_1-kings_012.mp3
+#EXTINF:0,Jeremiah 50
+ot\24_jeremiah\24_jeremiah_050.mp3
+#EXTINF:0,Acts 4
+nt\05_acts\05_acts_04.mp3

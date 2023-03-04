@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-12-13 Wed
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 12
+nt\04_john\04_john_12.mp3
+#EXTINF:0,Deuteronomy 7
+ot\05_deuteronomy\05_deuteronomy_007.mp3
+#EXTINF:0,2 Corinthians 3
+nt\08_2-corinthians\08_2-corinthians_03.mp3
+#EXTINF:0,Philemon 1
+nt\18_philemon\18_philemon_01.mp3
+#EXTINF:0,Job 37
+ot\18_job\18_job_037.mp3
+#EXTINF:0,Psalms 47
+ot\19_psalms\19_psalms_047.mp3
+#EXTINF:0,Proverbs 6
+ot\20_proverbs\20_proverbs_006.mp3
+#EXTINF:0,2 Samuel 18
+ot\10_2-samuel\10_2-samuel_018.mp3
+#EXTINF:0,Jeremiah 31
+ot\24_jeremiah\24_jeremiah_031.mp3
+#EXTINF:0,Acts 11
+nt\05_acts\05_acts_11.mp3

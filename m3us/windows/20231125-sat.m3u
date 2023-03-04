@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-11-25 Preparation Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Luke 18
+nt\03_luke\03_luke_18.mp3
+#EXTINF:0,Numbers 25
+ot\04_numbers\04_numbers_025.mp3
+#EXTINF:0,1 Corinthians 1
+nt\07_1-corinthians\07_1-corinthians_01.mp3
+#EXTINF:0,1 Thessalonians 4
+nt\13_1-thessalonians\13_1-thessalonians_04.mp3
+#EXTINF:0,Job 19
+ot\18_job\18_job_019.mp3
+#EXTINF:0,Psalms 29
+ot\19_psalms\19_psalms_029.mp3
+#EXTINF:0,Proverbs 19
+ot\20_proverbs\20_proverbs_019.mp3
+#EXTINF:0,1 Samuel 31
+ot\09_1-samuel\09_1-samuel_031.mp3
+#EXTINF:0,Jeremiah 13
+ot\24_jeremiah\24_jeremiah_013.mp3
+#EXTINF:0,Acts 21
+nt\05_acts\05_acts_21.mp3

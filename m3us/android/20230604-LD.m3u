@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-06-04 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Luke 22
+/storage/emulated/0/Music/BibleAudio/nt/03_luke/03_luke_22.mp3
+#EXTINF:0,Deuteronomy 2
+/storage/emulated/0/Music/BibleAudio/ot/05_deuteronomy/05_deuteronomy_002.mp3
+#EXTINF:0,Hebrews 12
+/storage/emulated/0/Music/BibleAudio/nt/19_hebrews/19_hebrews_12.mp3
+#EXTINF:0,James 3
+/storage/emulated/0/Music/BibleAudio/nt/20_james/20_james_03.mp3
+#EXTINF:0,Job 31
+/storage/emulated/0/Music/BibleAudio/ot/18_job/18_job_031.mp3
+#EXTINF:0,Psalms 5
+/storage/emulated/0/Music/BibleAudio/ot/19_psalms/19_psalms_005.mp3
+#EXTINF:0,Proverbs 31
+/storage/emulated/0/Music/BibleAudio/ot/20_proverbs/20_proverbs_031.mp3
+#EXTINF:0,1 Chronicles 4
+/storage/emulated/0/Music/BibleAudio/ot/13_1-chronicles/13_1-chronicles_004.mp3
+#EXTINF:0,Ezekiel 32
+/storage/emulated/0/Music/BibleAudio/ot/26_ezekiel/26_ezekiel_032.mp3
+#EXTINF:0,Acts 15
+/storage/emulated/0/Music/BibleAudio/nt/05_acts/05_acts_15.mp3

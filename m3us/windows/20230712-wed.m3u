@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-07-12 Wed
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 15
+nt\01_matthew\01_matthew_15.mp3
+#EXTINF:0,Genesis 6
+ot\01_genesis\01_genesis_006.mp3
+#EXTINF:0,2 Corinthians 5
+nt\08_2-corinthians\08_2-corinthians_05.mp3
+#EXTINF:0,Revelation 20
+nt\27_revelation\27_revelation_20.mp3
+#EXTINF:0,Job 7
+ot\18_job\18_job_007.mp3
+#EXTINF:0,Psalms 43
+ot\19_psalms\19_psalms_043.mp3
+#EXTINF:0,Proverbs 7
+ot\20_proverbs\20_proverbs_007.mp3
+#EXTINF:0,2 Chronicles 13
+ot\14_2-chronicles\14_2-chronicles_013.mp3
+#EXTINF:0,Hosea 10
+ot\28_hosea\28_hosea_010.mp3
+#EXTINF:0,Acts 25
+nt\05_acts\05_acts_25.mp3

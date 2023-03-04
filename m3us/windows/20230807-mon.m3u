@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-08-07 Mon
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Mark 13
+nt\02_mark\02_mark_13.mp3
+#EXTINF:0,Genesis 32
+ot\01_genesis\01_genesis_032.mp3
+#EXTINF:0,Colossians 2
+nt\12_colossians\12_colossians_02.mp3
+#EXTINF:0,James 2
+nt\20_james\20_james_02.mp3
+#EXTINF:0,Job 33
+ot\18_job\18_job_033.mp3
+#EXTINF:0,Psalms 69
+ot\19_psalms\19_psalms_069.mp3
+#EXTINF:0,Proverbs 2
+ot\20_proverbs\20_proverbs_002.mp3
+#EXTINF:0,Ezra 3
+ot\15_ezra\15_ezra_003.mp3
+#EXTINF:0,Micah 5
+ot\33_micah\33_micah_005.mp3
+#EXTINF:0,Acts 23
+nt\05_acts\05_acts_23.mp3

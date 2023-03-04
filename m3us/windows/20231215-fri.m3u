@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-12-15 Fri
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 14
+nt\04_john\04_john_14.mp3
+#EXTINF:0,Deuteronomy 9
+ot\05_deuteronomy\05_deuteronomy_009.mp3
+#EXTINF:0,2 Corinthians 5
+nt\08_2-corinthians\08_2-corinthians_05.mp3
+#EXTINF:0,James 2
+nt\20_james\20_james_02.mp3
+#EXTINF:0,Job 39
+ot\18_job\18_job_039.mp3
+#EXTINF:0,Psalms 49
+ot\19_psalms\19_psalms_049.mp3
+#EXTINF:0,Proverbs 8
+ot\20_proverbs\20_proverbs_008.mp3
+#EXTINF:0,2 Samuel 20
+ot\10_2-samuel\10_2-samuel_020.mp3
+#EXTINF:0,Jeremiah 33
+ot\24_jeremiah\24_jeremiah_033.mp3
+#EXTINF:0,Acts 13
+nt\05_acts\05_acts_13.mp3

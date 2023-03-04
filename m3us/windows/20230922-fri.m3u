@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-09-22 Fri
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 19
+nt\04_john\04_john_19.mp3
+#EXTINF:0,Exodus 28
+ot\02_exodus\02_exodus_028.mp3
+#EXTINF:0,1 Corinthians 15
+nt\07_1-corinthians\07_1-corinthians_15.mp3
+#EXTINF:0,1 Thessalonians 5
+nt\13_1-thessalonians\13_1-thessalonians_05.mp3
+#EXTINF:0,Job 17
+ot\18_job\18_job_017.mp3
+#EXTINF:0,Psalms 115
+ot\19_psalms\19_psalms_115.mp3
+#EXTINF:0,Proverbs 17
+ot\20_proverbs\20_proverbs_017.mp3
+#EXTINF:0,Joshua 16
+ot\06_joshua\06_joshua_016.mp3
+#EXTINF:0,Isaiah 15
+ot\23_isaiah\23_isaiah_015.mp3
+#EXTINF:0,Acts 13
+nt\05_acts\05_acts_13.mp3

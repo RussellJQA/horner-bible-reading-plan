@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-01-01 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 1
+nt\01_matthew\01_matthew_01.mp3
+#EXTINF:0,Genesis 1
+ot\01_genesis\01_genesis_001.mp3
+#EXTINF:0,Romans 1
+nt\06_romans\06_romans_01.mp3
+#EXTINF:0,1 Thessalonians 1
+nt\13_1-thessalonians\13_1-thessalonians_01.mp3
+#EXTINF:0,Job 1
+ot\18_job\18_job_001.mp3
+#EXTINF:0,Psalms 1
+ot\19_psalms\19_psalms_001.mp3
+#EXTINF:0,Proverbs 1
+ot\20_proverbs\20_proverbs_001.mp3
+#EXTINF:0,Joshua 1
+ot\06_joshua\06_joshua_001.mp3
+#EXTINF:0,Isaiah 1
+ot\23_isaiah\23_isaiah_001.mp3
+#EXTINF:0,Acts 1
+nt\05_acts\05_acts_01.mp3

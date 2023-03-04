@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-10-19 Thu
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 25
+nt\01_matthew\01_matthew_25.mp3
+#EXTINF:0,Leviticus 15
+ot\03_leviticus\03_leviticus_015.mp3
+#EXTINF:0,Philippians 1
+nt\11_philippians\11_philippians_01.mp3
+#EXTINF:0,1 Peter 5
+nt\21_1-peter\21_1-peter_05.mp3
+#EXTINF:0,Ecclesiastes 2
+ot\21_ecclesiastes\21_ecclesiastes_002.mp3
+#EXTINF:0,Psalms 142
+ot\19_psalms\19_psalms_142.mp3
+#EXTINF:0,Proverbs 13
+ot\20_proverbs\20_proverbs_013.mp3
+#EXTINF:0,Judges 19
+ot\07_judges\07_judges_019.mp3
+#EXTINF:0,Isaiah 42
+ot\23_isaiah\23_isaiah_042.mp3
+#EXTINF:0,Acts 12
+nt\05_acts\05_acts_12.mp3

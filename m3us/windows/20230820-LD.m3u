@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-08-20 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Luke 10
+nt\03_luke\03_luke_10.mp3
+#EXTINF:0,Genesis 45
+ot\01_genesis\01_genesis_045.mp3
+#EXTINF:0,Hebrews 11
+nt\19_hebrews\19_hebrews_11.mp3
+#EXTINF:0,1 John 2
+nt\23_1-john\23_1-john_02.mp3
+#EXTINF:0,Ecclesiastes 4
+ot\21_ecclesiastes\21_ecclesiastes_004.mp3
+#EXTINF:0,Psalms 82
+ot\19_psalms\19_psalms_082.mp3
+#EXTINF:0,Proverbs 15
+ot\20_proverbs\20_proverbs_015.mp3
+#EXTINF:0,Nehemiah 6
+ot\16_nehemiah\16_nehemiah_006.mp3
+#EXTINF:0,Haggai 2
+ot\37_haggai\37_haggai_002.mp3
+#EXTINF:0,Acts 8
+nt\05_acts\05_acts_08.mp3

@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-11-05 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Mark 14
+nt\02_mark\02_mark_14.mp3
+#EXTINF:0,Numbers 5
+ot\04_numbers\04_numbers_005.mp3
+#EXTINF:0,Hebrews 10
+nt\19_hebrews\19_hebrews_10.mp3
+#EXTINF:0,Revelation 6
+nt\27_revelation\27_revelation_06.mp3
+#EXTINF:0,Song of Songs 7
+ot\22_songofsolomon\22_songofsolomon_007.mp3
+#EXTINF:0,Psalms 9
+ot\19_psalms\19_psalms_009.mp3
+#EXTINF:0,Proverbs 30
+ot\20_proverbs\20_proverbs_030.mp3
+#EXTINF:0,1 Samuel 11
+ot\09_1-samuel\09_1-samuel_011.mp3
+#EXTINF:0,Isaiah 59
+ot\23_isaiah\23_isaiah_059.mp3
+#EXTINF:0,Acts 1
+nt\05_acts\05_acts_01.mp3

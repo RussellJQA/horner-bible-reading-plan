@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-07-29 Preparation Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Mark 4
+nt\02_mark\02_mark_04.mp3
+#EXTINF:0,Genesis 23
+ot\01_genesis\01_genesis_023.mp3
+#EXTINF:0,Ephesians 3
+nt\10_ephesians\10_ephesians_03.mp3
+#EXTINF:0,2 Timothy 1
+nt\16_2-timothy\16_2-timothy_01.mp3
+#EXTINF:0,Job 24
+ot\18_job\18_job_024.mp3
+#EXTINF:0,Psalms 60
+ot\19_psalms\19_psalms_060.mp3
+#EXTINF:0,Proverbs 24
+ot\20_proverbs\20_proverbs_024.mp3
+#EXTINF:0,2 Chronicles 30
+ot\14_2-chronicles\14_2-chronicles_030.mp3
+#EXTINF:0,Obadiah 1
+ot\31_obadiah\31_obadiah_001.mp3
+#EXTINF:0,Acts 14
+nt\05_acts\05_acts_14.mp3

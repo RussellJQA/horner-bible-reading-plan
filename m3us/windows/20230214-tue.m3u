@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-02-14 Tue
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Luke 1
+nt\03_luke\03_luke_01.mp3
+#EXTINF:0,Genesis 45
+ot\01_genesis\01_genesis_045.mp3
+#EXTINF:0,2 Corinthians 13
+nt\08_2-corinthians\08_2-corinthians_13.mp3
+#EXTINF:0,Revelation 2
+nt\27_revelation\27_revelation_02.mp3
+#EXTINF:0,Ecclesiastes 3
+ot\21_ecclesiastes\21_ecclesiastes_003.mp3
+#EXTINF:0,Psalms 45
+ot\19_psalms\19_psalms_045.mp3
+#EXTINF:0,Proverbs 14
+ot\20_proverbs\20_proverbs_014.mp3
+#EXTINF:0,Judges 21
+ot\07_judges\07_judges_021.mp3
+#EXTINF:0,Isaiah 45
+ot\23_isaiah\23_isaiah_045.mp3
+#EXTINF:0,Acts 17
+nt\05_acts\05_acts_17.mp3

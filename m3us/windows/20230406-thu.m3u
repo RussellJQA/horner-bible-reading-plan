@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-04-06 Thu
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 7
+nt\01_matthew\01_matthew_07.mp3
+#EXTINF:0,Leviticus 6
+ot\03_leviticus\03_leviticus_006.mp3
+#EXTINF:0,1 Corinthians 2
+nt\07_1-corinthians\07_1-corinthians_02.mp3
+#EXTINF:0,1 Peter 4
+nt\21_1-peter\21_1-peter_04.mp3
+#EXTINF:0,Job 34
+ot\18_job\18_job_034.mp3
+#EXTINF:0,Psalms 96
+ot\19_psalms\19_psalms_096.mp3
+#EXTINF:0,Proverbs 3
+ot\20_proverbs\20_proverbs_003.mp3
+#EXTINF:0,2 Samuel 16
+ot\10_2-samuel\10_2-samuel_016.mp3
+#EXTINF:0,Jeremiah 30
+ot\24_jeremiah\24_jeremiah_030.mp3
+#EXTINF:0,Acts 12
+nt\05_acts\05_acts_12.mp3

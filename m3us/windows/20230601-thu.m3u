@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-06-01 Thu
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Luke 19
+nt\03_luke\03_luke_19.mp3
+#EXTINF:0,Numbers 35
+ot\04_numbers\04_numbers_035.mp3
+#EXTINF:0,Hebrews 9
+nt\19_hebrews\19_hebrews_09.mp3
+#EXTINF:0,Philemon 1
+nt\18_philemon\18_philemon_01.mp3
+#EXTINF:0,Job 28
+ot\18_job\18_job_028.mp3
+#EXTINF:0,Psalms 2
+ot\19_psalms\19_psalms_002.mp3
+#EXTINF:0,Proverbs 28
+ot\20_proverbs\20_proverbs_028.mp3
+#EXTINF:0,1 Chronicles 1
+ot\13_1-chronicles\13_1-chronicles_001.mp3
+#EXTINF:0,Ezekiel 29
+ot\26_ezekiel\26_ezekiel_029.mp3
+#EXTINF:0,Acts 12
+nt\05_acts\05_acts_12.mp3

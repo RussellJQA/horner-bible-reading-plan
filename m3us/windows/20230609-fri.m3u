@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-06-09 Fri
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 3
+nt\04_john\04_john_03.mp3
+#EXTINF:0,Deuteronomy 7
+ot\05_deuteronomy\05_deuteronomy_007.mp3
+#EXTINF:0,Romans 4
+nt\06_romans\06_romans_04.mp3
+#EXTINF:0,1 Peter 3
+nt\21_1-peter\21_1-peter_03.mp3
+#EXTINF:0,Job 36
+ot\18_job\18_job_036.mp3
+#EXTINF:0,Psalms 10
+ot\19_psalms\19_psalms_010.mp3
+#EXTINF:0,Proverbs 5
+ot\20_proverbs\20_proverbs_005.mp3
+#EXTINF:0,1 Chronicles 9
+ot\13_1-chronicles\13_1-chronicles_009.mp3
+#EXTINF:0,Ezekiel 37
+ot\26_ezekiel\26_ezekiel_037.mp3
+#EXTINF:0,Acts 20
+nt\05_acts\05_acts_20.mp3

@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-10-01 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 7
+nt\01_matthew\01_matthew_07.mp3
+#EXTINF:0,Exodus 37
+ot\02_exodus\02_exodus_037.mp3
+#EXTINF:0,2 Corinthians 8
+nt\08_2-corinthians\08_2-corinthians_08.mp3
+#EXTINF:0,1 Timothy 6
+nt\15_1-timothy\15_1-timothy_06.mp3
+#EXTINF:0,Job 26
+ot\18_job\18_job_026.mp3
+#EXTINF:0,Psalms 124
+ot\19_psalms\19_psalms_124.mp3
+#EXTINF:0,Proverbs 26
+ot\20_proverbs\20_proverbs_026.mp3
+#EXTINF:0,Judges 1
+ot\07_judges\07_judges_001.mp3
+#EXTINF:0,Isaiah 24
+ot\23_isaiah\23_isaiah_024.mp3
+#EXTINF:0,Acts 22
+nt\05_acts\05_acts_22.mp3

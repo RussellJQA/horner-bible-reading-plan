@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-07-15 Preparation Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 18
+/storage/emulated/0/Music/BibleAudio/nt/01_matthew/01_matthew_18.mp3
+#EXTINF:0,Genesis 9
+/storage/emulated/0/Music/BibleAudio/ot/01_genesis/01_genesis_009.mp3
+#EXTINF:0,2 Corinthians 8
+/storage/emulated/0/Music/BibleAudio/nt/08_2-corinthians/08_2-corinthians_08.mp3
+#EXTINF:0,1 Thessalonians 1
+/storage/emulated/0/Music/BibleAudio/nt/13_1-thessalonians/13_1-thessalonians_01.mp3
+#EXTINF:0,Job 10
+/storage/emulated/0/Music/BibleAudio/ot/18_job/18_job_010.mp3
+#EXTINF:0,Psalms 46
+/storage/emulated/0/Music/BibleAudio/ot/19_psalms/19_psalms_046.mp3
+#EXTINF:0,Proverbs 10
+/storage/emulated/0/Music/BibleAudio/ot/20_proverbs/20_proverbs_010.mp3
+#EXTINF:0,2 Chronicles 16
+/storage/emulated/0/Music/BibleAudio/ot/14_2-chronicles/14_2-chronicles_016.mp3
+#EXTINF:0,Hosea 13
+/storage/emulated/0/Music/BibleAudio/ot/28_hosea/28_hosea_013.mp3
+#EXTINF:0,Acts 28
+/storage/emulated/0/Music/BibleAudio/nt/05_acts/05_acts_28.mp3

@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-04-12 Wed
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 13
+nt\01_matthew\01_matthew_13.mp3
+#EXTINF:0,Leviticus 12
+ot\03_leviticus\03_leviticus_012.mp3
+#EXTINF:0,1 Corinthians 8
+nt\07_1-corinthians\07_1-corinthians_08.mp3
+#EXTINF:0,1 John 2
+nt\23_1-john\23_1-john_02.mp3
+#EXTINF:0,Job 40
+ot\18_job\18_job_040.mp3
+#EXTINF:0,Psalms 102
+ot\19_psalms\19_psalms_102.mp3
+#EXTINF:0,Proverbs 9
+ot\20_proverbs\20_proverbs_009.mp3
+#EXTINF:0,2 Samuel 22
+ot\10_2-samuel\10_2-samuel_022.mp3
+#EXTINF:0,Jeremiah 36
+ot\24_jeremiah\24_jeremiah_036.mp3
+#EXTINF:0,Acts 18
+nt\05_acts\05_acts_18.mp3

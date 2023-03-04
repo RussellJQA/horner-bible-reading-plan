@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-03-14 Tue
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 5
+nt\04_john\04_john_05.mp3
+#EXTINF:0,Exodus 23
+ot\02_exodus\02_exodus_023.mp3
+#EXTINF:0,Hebrews 8
+nt\19_hebrews\19_hebrews_08.mp3
+#EXTINF:0,2 Thessalonians 3
+nt\14_2-thessalonians\14_2-thessalonians_03.mp3
+#EXTINF:0,Job 11
+ot\18_job\18_job_011.mp3
+#EXTINF:0,Psalms 73
+ot\19_psalms\19_psalms_073.mp3
+#EXTINF:0,Proverbs 11
+ot\20_proverbs\20_proverbs_011.mp3
+#EXTINF:0,1 Samuel 24
+ot\09_1-samuel\09_1-samuel_024.mp3
+#EXTINF:0,Jeremiah 7
+ot\24_jeremiah\24_jeremiah_007.mp3
+#EXTINF:0,Acts 17
+nt\05_acts\05_acts_17.mp3

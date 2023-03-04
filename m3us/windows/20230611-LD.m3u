@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-06-11 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 5
+nt\04_john\04_john_05.mp3
+#EXTINF:0,Deuteronomy 9
+ot\05_deuteronomy\05_deuteronomy_009.mp3
+#EXTINF:0,Romans 6
+nt\06_romans\06_romans_06.mp3
+#EXTINF:0,1 Peter 5
+nt\21_1-peter\21_1-peter_05.mp3
+#EXTINF:0,Job 38
+ot\18_job\18_job_038.mp3
+#EXTINF:0,Psalms 12
+ot\19_psalms\19_psalms_012.mp3
+#EXTINF:0,Proverbs 7
+ot\20_proverbs\20_proverbs_007.mp3
+#EXTINF:0,1 Chronicles 11
+ot\13_1-chronicles\13_1-chronicles_011.mp3
+#EXTINF:0,Ezekiel 39
+ot\26_ezekiel\26_ezekiel_039.mp3
+#EXTINF:0,Acts 22
+nt\05_acts\05_acts_22.mp3

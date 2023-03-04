@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-01-22 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Matthew 22
+nt\01_matthew\01_matthew_22.mp3
+#EXTINF:0,Genesis 22
+ot\01_genesis\01_genesis_022.mp3
+#EXTINF:0,1 Corinthians 6
+nt\07_1-corinthians\07_1-corinthians_06.mp3
+#EXTINF:0,Philemon 1
+nt\18_philemon\18_philemon_01.mp3
+#EXTINF:0,Job 22
+ot\18_job\18_job_022.mp3
+#EXTINF:0,Psalms 22
+ot\19_psalms\19_psalms_022.mp3
+#EXTINF:0,Proverbs 22
+ot\20_proverbs\20_proverbs_022.mp3
+#EXTINF:0,Joshua 22
+ot\06_joshua\06_joshua_022.mp3
+#EXTINF:0,Isaiah 22
+ot\23_isaiah\23_isaiah_022.mp3
+#EXTINF:0,Acts 22
+nt\05_acts\05_acts_22.mp3

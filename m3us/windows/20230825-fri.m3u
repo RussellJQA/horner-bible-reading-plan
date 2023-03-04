@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-08-25 Fri
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Luke 15
+nt\03_luke\03_luke_15.mp3
+#EXTINF:0,Genesis 50
+ot\01_genesis\01_genesis_050.mp3
+#EXTINF:0,Romans 3
+nt\06_romans\06_romans_03.mp3
+#EXTINF:0,3 John 1
+nt\25_3-john\25_3-john_01.mp3
+#EXTINF:0,Ecclesiastes 9
+ot\21_ecclesiastes\21_ecclesiastes_009.mp3
+#EXTINF:0,Psalms 87
+ot\19_psalms\19_psalms_087.mp3
+#EXTINF:0,Proverbs 20
+ot\20_proverbs\20_proverbs_020.mp3
+#EXTINF:0,Nehemiah 11
+ot\16_nehemiah\16_nehemiah_011.mp3
+#EXTINF:0,Zechariah 5
+ot\38_zechariah\38_zechariah_005.mp3
+#EXTINF:0,Acts 13
+nt\05_acts\05_acts_13.mp3

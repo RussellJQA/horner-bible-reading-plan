@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-09-23 Preparation Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,John 20
+nt\04_john\04_john_20.mp3
+#EXTINF:0,Exodus 29
+ot\02_exodus\02_exodus_029.mp3
+#EXTINF:0,1 Corinthians 16
+nt\07_1-corinthians\07_1-corinthians_16.mp3
+#EXTINF:0,2 Thessalonians 1
+nt\14_2-thessalonians\14_2-thessalonians_01.mp3
+#EXTINF:0,Job 18
+ot\18_job\18_job_018.mp3
+#EXTINF:0,Psalms 116
+ot\19_psalms\19_psalms_116.mp3
+#EXTINF:0,Proverbs 18
+ot\20_proverbs\20_proverbs_018.mp3
+#EXTINF:0,Joshua 17
+ot\06_joshua\06_joshua_017.mp3
+#EXTINF:0,Isaiah 16
+ot\23_isaiah\23_isaiah_016.mp3
+#EXTINF:0,Acts 14
+nt\05_acts\05_acts_14.mp3

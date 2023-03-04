@@ -1,0 +1,25 @@
+#EXTM3U
+#PLAYLIST:2023-05-07 Lords Day
+#EXTALB: KJV Bible
+#EXTART: Talking Bibles International
+#EXTGENRE:Speech
+#EXTINF:0,Mark 10
+nt\02_mark\02_mark_10.mp3
+#EXTINF:0,Numbers 10
+ot\04_numbers\04_numbers_010.mp3
+#EXTINF:0,Galatians 4
+nt\09_galatians\09_galatians_04.mp3
+#EXTINF:0,Revelation 19
+nt\27_revelation\27_revelation_19.mp3
+#EXTINF:0,Job 3
+ot\18_job\18_job_003.mp3
+#EXTINF:0,Psalms 127
+ot\19_psalms\19_psalms_127.mp3
+#EXTINF:0,Proverbs 3
+ot\20_proverbs\20_proverbs_003.mp3
+#EXTINF:0,2 Kings 1
+ot\12_2-kings\12_2-kings_001.mp3
+#EXTINF:0,Ezekiel 4
+ot\26_ezekiel\26_ezekiel_004.mp3
+#EXTINF:0,Acts 15
+nt\05_acts\05_acts_15.mp3
